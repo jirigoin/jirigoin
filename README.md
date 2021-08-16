@@ -12,4 +12,3 @@
 
 <p align="left">
   <a href="https://github.com/jirigoin"><img width="400" src="https://github-readme-stats.vercel.app/api?username=jirigoin&show_icons=true&theme=gruvbox&count_private=true">
-  <a href="https://github.com/jirigoin"><img width="380" src="https://github-readme-stats-repo.vercel.app/api/top-langs/?username=jirigoin&hide=html&theme=gruvbox">
