@@ -11,4 +11,4 @@
 ![go](https://icongr.am/devicon/go-original.svg?size=40&color=currentColor) ![JAVA](https://icongr.am/devicon/java-original.svg?size=40&color=currentColor) ![postgresql](https://icongr.am/devicon/postgresql-original.svg?size=40&color=currentColor) ![mySql](https://icongr.am/devicon/mysql-original.svg?size=40&color=currentColor) 
 
 <p align="left">
-  <a href="https://github.com/jirigoin"><img width="400" src="https://github-readme-stats.vercel.app/api?username=jirigoin&show_icons=true&theme=gruvbox&count_private=true">
+  <a href="https://github.com/jirigoin"><img width="400" src="https://github-readme-stats.vercel.app/api?username=jirigoin&show_icons=true&theme=gruvbox&count_private=true&hide=prs,issues,contribs,stars">
