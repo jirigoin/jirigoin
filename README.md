@@ -2,7 +2,7 @@
 
 
 * :godmode: I’m Sr Backend Developer currently working on [Mercado Libre](https://www.mercadolibre.com)
-* :suspect: I’m currently improving my english and looking to collaborate on in project with [Go](https://golang.org/) 
+* :suspect: I’m currently improving my english 
 * :goberserk: How to reach me? jirigoinaa@gmail.com or  _**[linkedin](https://www.linkedin.com/in/juan-ignacio-irigoin/)**_
 
 #### Languages and Tools
