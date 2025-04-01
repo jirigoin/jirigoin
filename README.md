@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m [jirigoin](https://www.linkedin.com/in/juan-ignacio-irigoin/) 🇦🇷
 
-* :goberserk: How to reach me? jirigoinaa@gmail.com or  _**[linkedin](https://www.linkedin.com/in/juan-ignacio-irigoin/)**_
+* :goberserk: How to reach me? jirigoinaa@gmail.com or  _**[linkedin](https://www.linkedin.com/in/jirigoin/)**_
 
 #### Languages and Tools
 
